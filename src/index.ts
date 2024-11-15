@@ -1,1 +1,0 @@
-export { MyPackage } from './MyPackage'
