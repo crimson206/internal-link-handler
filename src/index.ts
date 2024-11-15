@@ -1,0 +1,1 @@
+export { useInternalLinkHandler } from './linkHandler/linkHandler'

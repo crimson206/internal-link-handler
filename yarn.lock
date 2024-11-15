@@ -2575,6 +2575,11 @@ reusify@^1.0.4:
   resolved "https://registry.yarnpkg.com/reusify/-/reusify-1.0.4.tgz#90da382b1e126efc02146e90845a88db12925d76"
   integrity sha512-U9nH88a3fc/ekCF1l0/UP1IosiuIjyTh7hBvXVMHYgVcfGvt897Xguj2UOLDeI5BG2m7/uwyaLVT6fbtCwTyzw==
 
+rollup-plugin-ignore@^1.0.10:
+  version "1.0.10"
+  resolved "https://registry.yarnpkg.com/rollup-plugin-ignore/-/rollup-plugin-ignore-1.0.10.tgz#0b8453ebf977fca1b4b0634062dded45288bf764"
+  integrity sha512-VsbnfwwaTv2Dxl2onubetX/3RnSnplNnjdix0hvF8y2YpqdzlZrjIq6zkcuVJ08XysS8zqW3gt3ORBndFDgsrg==
+
 rollup@^4.20.0:
   version "4.27.0"
   resolved "https://registry.yarnpkg.com/rollup/-/rollup-4.27.0.tgz#ec33a9428e135215c38d3d265dca864cc1b0fb6b"

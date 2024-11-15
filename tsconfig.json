@@ -10,5 +10,10 @@
       "strict": true,
       "lib": ["DOM", "ESNext"]
     },
-    "include": ["src"]
+    "include": ["src"],
+    "exclude": [
+      "src/stories",
+      "src/main.jsx",
+      "src/App.jsx",
+    ]
   }
